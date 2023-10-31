@@ -29,6 +29,5 @@ ORDEM=r'Orçamentária.\s{0,5}\s\d{0,5}\s\d{0,5}.\d{0,4}..\d{0,7}'
 ordem=[]
 
 DATA_PROTOCOLO=r'Data\sdo\sProtocolo.\s\d{0,2}/\d{0,2}/\d{0,4}'
-
 data=[]
 
